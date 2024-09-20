@@ -7,7 +7,7 @@ __version__="0.0.1"
 
 REPO_NAME="MLops-Template"
 AUTHOR_NAME="Debopam-pritam2014"
-SRC_REPO="First-project"
+SRC_REPO="Firstproject"
 AUTHOR_EMAIL='debopamdeycse19@gmail.com'
 
 setuptools.setup(
@@ -16,7 +16,7 @@ setuptools.setup(
     author=AUTHOR_NAME,
     author_email=AUTHOR_EMAIL,
     long_description="MLOps Template for everyone.",
-    long_description=long_description,
+    Long_description=long_description,
     long_description_content_type="text/markdown",
     url=f"https://github.com/{AUTHOR_NAME}/{REPO_NAME}",
     project_urls={
